@@ -1,2 +1,3 @@
 Kein Resolusi
 - Menyelesaikan project web SMK Merah Putih
+- Menyelesaikan indosat X dicoding [Fundamental Machine Learning]
