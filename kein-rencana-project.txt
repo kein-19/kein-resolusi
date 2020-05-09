@@ -2,3 +2,4 @@ Rencana Project
 
 - Membuat website pribadi
 - Membuat tutorial
+- Membuat akun microstock
